@@ -1,0 +1,16 @@
+C:\Users\Daslaw\subtraction2\bin\Debug\net5.0\subtraction2.exe
+C:\Users\Daslaw\subtraction2\bin\Debug\net5.0\subtraction2.deps.json
+C:\Users\Daslaw\subtraction2\bin\Debug\net5.0\subtraction2.runtimeconfig.json
+C:\Users\Daslaw\subtraction2\bin\Debug\net5.0\subtraction2.runtimeconfig.dev.json
+C:\Users\Daslaw\subtraction2\bin\Debug\net5.0\subtraction2.dll
+C:\Users\Daslaw\subtraction2\bin\Debug\net5.0\ref\subtraction2.dll
+C:\Users\Daslaw\subtraction2\bin\Debug\net5.0\subtraction2.pdb
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\subtraction2.csproj.AssemblyReference.cache
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\subtraction2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\subtraction2.AssemblyInfoInputs.cache
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\subtraction2.AssemblyInfo.cs
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\subtraction2.csproj.CoreCompileInputs.cache
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\subtraction2.dll
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\ref\subtraction2.dll
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\subtraction2.pdb
+C:\Users\Daslaw\subtraction2\obj\Debug\net5.0\subtraction2.genruntimeconfig.cache
