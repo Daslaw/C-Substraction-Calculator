@@ -20,8 +20,7 @@ namespace subtraction2
 
            // Subtraction and Displays of Result
             subResult = firstNumber - secondNumber;  
-            Console.WriteLin
-            e"The result : "+ subResult);
+            Console.WriteLine ("The result : "+ subResult);
         }
     }
 }
